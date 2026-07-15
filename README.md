@@ -12,35 +12,38 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-class PriteshBeladiya:
+<table>
+<tr>
+<td>
 
-    def __init__(self):
-        self.role = "AI Engineer in Progress"
+🎓 **B.Tech Electronics & Communication Engineering**
 
-        self.education = "B.Tech Electronics & Communication Engineering"
+🤖 **Learning**
+- Generative AI
+- Agentic AI
+- LangChain
+- LLMs
 
-        self.learning = [
-            "Generative AI",
-            "Agentic AI",
-            "LLMs",
-            "LangChain",
-            "AI Agents"
-        ]
+💻 **Languages**
+- Python
+- C
+- C++
+- JavaScript
 
-        self.languages = [
-            "Python",
-            "C",
-            "C++",
-            "JavaScript"
-        ]
+🎯 **Goal**
+> Become an AI Engineer and build impactful AI applications.
 
-        self.goal = "Build AI products that impact millions."
+</td>
 
-    def motto(self):
-        return "Learn • Build • Share • Repeat 🚀"
-```
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priteshbeladiya07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
