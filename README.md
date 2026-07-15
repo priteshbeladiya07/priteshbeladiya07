@@ -1,6 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Pritesh Beladiya
+
 ### AI Engineer in Progress • Python Developer • Open Source Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Generative+AI+%7C+LLMs+%7C+Agentic+AI;Machine+Learning+Enthusiast;Python+Developer;Open+Source+Contributor" />
@@ -26,21 +27,25 @@
 # ⚡ Tech Stack
 
 ### Languages
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql"/>
 </p>
 
 ### AI / ML
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
 ### Tools
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda"/>
 </p>
 
 ### Hardware
+
 <p align="center">
 <img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge"/>
@@ -52,8 +57,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=priteshbeladiya07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priteshbeladiya07&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -82,15 +90,19 @@
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/priteshbeladiya07">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-<a href="mailto:REPLACE_WITH_YOUR_REAL_EMAIL@gmail.com">
+
+<a href="mailto:your-email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-<a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN_SLUG">
+
+<a href="https://linkedin.com/in/your-linkedin">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 </p>
 
 ---
