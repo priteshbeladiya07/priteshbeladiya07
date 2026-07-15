@@ -14,7 +14,6 @@
 
 # 👨‍💻 About Me
 
-```python
 class PriteshBeladiya:
 
     def __init__(self):
