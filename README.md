@@ -1,103 +1,211 @@
-# Hi 👋, I'm Pritesh Beladiya
+<div align="center">
 
-<h3 align="center">
-Electronics & Communication Engineering Student | AI/ML Enthusiast | Python Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Pritesh%20Beladiya&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Generative+AI+%7C+LLMs+%7C+Agentic+AI;Machine+Learning+Engineer;Python+Developer;Building+the+Future+with+AI+🤖"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=priteshbeladiya07&label=Profile+Views&style=for-the-badge&color=0891b2"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```python
+class PriteshBeladiya:
+
+    def __init__(self):
+        self.role = "AI Engineer in Progress"
+
+        self.education = "B.Tech Electronics & Communication Engineering"
+
+        self.learning = [
+            "Generative AI",
+            "Agentic AI",
+            "LLMs",
+            "LangChain",
+            "AI Agents"
+        ]
+
+        self.languages = [
+            "Python",
+            "C",
+            "C++",
+            "JavaScript"
+        ]
+
+        self.goal = "Build AI products that impact millions."
+
+    def motto(self):
+        return "Learn • Build • Share • Repeat 🚀"
+```
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Enthusiast;Learning+Generative+AI;Exploring+Agentic+AI;Python+Developer;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql"/>
 </p>
 
+### AI / Machine Learning
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priteshbeladiya07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/priteshbeladiya07?logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/priteshbeladiya07?affiliations=OWNER&style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+### Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda"/>
+</p>
+
+### Hardware & EDA
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Xilinx_Vivado-red?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 B.Tech in Electronics & Communication Engineering
-- 🤖 Currently learning **Generative AI**, **LLMs**, and **Agentic AI**
-- 💻 Passionate about AI, Machine Learning & Python
-- 🌱 Exploring Open Source and Software Development
-- 🎯 Goal: Become an AI Engineer
-
----
-
-## 💻 Languages
+# 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=priteshbeladiya07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=priteshbeladiya07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priteshbeladiya07&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🏆 Achievements
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SystemVerilog-F28C28?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F26?style=for-the-badge" />
+<img src="https://github-profile-trophy.vercel.app/?username=priteshbeladiya07&theme=algolia&no-frame=true&column=4"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=priteshbeladiya07&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=priteshbeladiya07&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priteshbeladiya07&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priteshbeladiya07&theme=github-dark&hide_border=true" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priteshbeladiya07/priteshbeladiya07/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priteshbeladiya07/priteshbeladiya07/output/github-contribution-grid-snake.svg">
+<img alt="Snake Animation" src="https://raw.githubusercontent.com/priteshbeladiya07/priteshbeladiya07/output/github-contribution-grid-snake-dark.svg">
+</picture>
 </p>
 
 ---
 
-## 📋 GitHub Summary
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priteshbeladiya07&theme=github_dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priteshbeladiya07&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priteshbeladiya07&theme=github_dark" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priteshbeladiya07&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Current Focus
+
+- 🤖 Generative AI
+- 🧠 Large Language Models
+- 🔗 LangChain
+- ⚡ AI Agents
+- ☁️ Cloud Deployment
+- 🏆 Competitive Programming
+
+---
+
+# 📂 Featured Projects
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🤖 AI Projects | Generative AI & LLM Applications |
+| 🧠 Machine Learning | ML Algorithms & Models |
+| 🌐 Web Development | Full Stack Projects |
+| ⚡ Python | Automation & APIs |
+| 💻 Electronics | Verilog • SystemVerilog |
+
+---
+
+# 📚 Currently Learning
 
 <p align="center">
-  <a href="https://github.com/priteshbeladiya07">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,github"/>
+
+</p>
+
+- Large Language Models
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/priteshbeladiya07">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://your-portfolio.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<div align="center">
+
+## 💭 Developer Quote
+
+> **"The best way to predict the future is to build it."**
+
+⭐ If you enjoy my work, consider **starring** my repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
+
+</div>
