@@ -2,49 +2,81 @@
 
 # 👋 Hi, I'm Pritesh Beladiya
 
-### AI Engineer
+### AI Engineer in Progress • Python Developer • Open Source Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs;RAG+%7C+LangChain+%7C+LangGraph;AI+Agents+%7C+FastAPI;Python+%7C+Docker" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Generative+AI+%7C+LLMs+%7C+Agentic+AI;Machine+Learning+Enthusiast;Python+Developer;Open+Source+Contributor" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=priteshbeladiya07&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🎓 B.Tech **Electronics & Communication Engineering**
-* 🤖 Learning **Machine Learning, Deep Learning & Generative AI**
-* 🧠 Working with **LLMs, RAG, AI Agents & NLP**
-* 🔗 Using **LangChain, LangGraph & Mistral AI**
-* ⚙️ Building AI applications with **FastAPI & Docker**
-* 🎯 Goal: **Become an AI Engineer**
-
----
-
-## ⚡ Tech Stack
-
-**Languages:** Python • C • C++ • JavaScript • SQL
-
-**AI/ML:** Scikit-learn • XGBoost • TensorFlow • PyTorch
-
-**GenAI:** LLMs • RAG • CRAG • Self-RAG • LangChain • LangGraph • Mistral AI
-
-**Backend:** FastAPI • PostgreSQL • ChromaDB • FAISS
-
-**Tools:** Git • GitHub • Docker • VS Code • Linux
+- 🎓 **B.Tech in Electronics & Communication Engineering**
+- 🤖 Learning **Generative AI**, **LLMs**, **LangChain**, and **AI Agents**
+- 💻 Strong interest in **Python**, **Machine Learning**, and **Open Source**
+- 🌱 Building AI projects and improving problem-solving skills
+- 🎯 Goal: **Become an AI Engineer**
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ Tech Stack
 
-* 🤖 **Machine Learning & Deep Learning**
-* 🧠 **Generative AI & RAG Applications**
-* 🔗 **LangChain & LangGraph AI Agents**
-* ⚙️ **FastAPI + Docker AI Applications**
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql"/>
+</p>
+
+### AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda"/>
+</p>
+
+### Hardware
+
+<p align="center">
+<img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-red?style=for-the-badge"/>
+</p>
+
 
 ---
 
-## 🌐 Connect With Me
+# 🌱 Currently Learning
+
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- 🔗 LangChain
+- ⚡ AI Agents
+- ☁️ Cloud Deployment
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Projects | LLMs, AI Agents & ML |
+| 💻 Python | Automation & Problem Solving |
+| 🌐 Web Development | HTML • CSS • JavaScript |
+| ⚡ Electronics | Verilog • SystemVerilog |
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -62,12 +94,14 @@
 
 </p>
 
+---
+
 <div align="center">
 
 > **"Consistency beats intensity. Build every day."**
 
-⭐ Thanks for visiting!
+⭐ Thanks for visiting my profile!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
