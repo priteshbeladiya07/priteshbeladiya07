@@ -41,7 +41,6 @@
 * 🧠 **Generative AI & RAG Applications**
 * 🔗 **LangChain & LangGraph AI Agents**
 * ⚙️ **FastAPI + Docker AI Applications**
-* ⚡ **VLSI Projects**
 
 ---
 
