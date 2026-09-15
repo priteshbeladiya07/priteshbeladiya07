@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Pritesh Beladiya
 
-### AI Engineer in Progress • Python Developer
+### AI Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs;RAG+%7C+LangChain+%7C+LangGraph;AI+Agents+%7C+FastAPI;Python+%7C+Docker" />
 
