@@ -33,8 +33,6 @@
 
 **Tools:** Git • GitHub • Docker • VS Code • Linux
 
-**VLSI:** Verilog • SystemVerilog • Xilinx Vivado
-
 ---
 
 ## 🚀 Featured Projects
