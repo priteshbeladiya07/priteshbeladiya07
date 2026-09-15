@@ -20,7 +20,7 @@
 - 🤖 Learning **Generative AI**, **LLMs**, **LangChain**, and **AI Agents**
 - 💻 Strong interest in **Python**, **Machine Learning**, and **Open Source**
 - 🌱 Building AI projects and improving problem-solving skills
-- 🎯 Goal: **Become an AI Engineer**
+
 
 ---
 
