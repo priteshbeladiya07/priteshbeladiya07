@@ -2,7 +2,7 @@
 
 # Hi, I'm Pritesh Beladiya 👋
 
-### AI Engineer in Progress · Python Developer · Generative AI Enthusiast
+### AI Engineer · Python Developer · Generative AI Enthusiast
 
 Building my knowledge of intelligent systems, LLM applications, and production-ready AI engineering.
 
