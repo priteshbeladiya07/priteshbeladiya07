@@ -1,15 +1,19 @@
 <!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0F172A,50:0369A1,100:38BDF8&text=Pritesh%20Beladiya&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Python%20Developer%20%C2%B7%20Generative%20AI%20Builder&descSize=18&descAlignY=58" width="100%" alt="Pritesh Beladiya header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0F172A,50:0369A1,100:38BDF8&text=Pritesh%20Beladiya&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=AI%20Engineer%20%C2%B7%20Python%20Developer%20%C2%B7%20Generative%20AI%20Builder&descSize=18&descAlignY=58" width="100%" alt="Pritesh Beladiya header" />
 <a href="https://github.com/priteshbeladiya07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+intelligent+apps+with+LLMs+%26+retrieval;Agentic+AI+%7C+LangGraph+%7C+MCP;RAG+%7C+Context+Engineering+%7C+Evaluation;Python+%7C+FastAPI+%7C+Docker;From+prototype+to+reliable+AI+systems" alt="Typing animation: AI engineering interests" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=820&height=40&lines=%F0%9F%91%8B+Hi%2C+I'm+Pritesh;Building+intelligent+apps+with+LLMs+%26+retrieval;Agentic+AI+%7C+LangGraph+%7C+MCP;RAG+%7C+Context+Engineering+%7C+Evaluation;Python+%7C+FastAPI+%7C+Docker;From+prototype+to+reliable+AI+systems" alt="Typing animation: AI engineering interests" />
 </a>
 <br/>
 <a href="https://github.com/priteshbeladiya07"><img src="https://img.shields.io/badge/GitHub-priteshbeladiya07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/github/followers/priteshbeladiya07?style=for-the-badge&logo=github&color=38BDF8&labelColor=0F172A" alt="Followers" />
  
+<br/><br/>
+ 
+<!-- Animated "agent trace" terminal: lines type out one after another, then loop -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=1400&color=0EA5E9&multiline=true&repeat=true&center=false&vCenter=false&width=640&height=170&lines=%24+agent.run%28%22what+should+I+build+next%3F%22%29;%E2%86%92+routing+intent...;%E2%86%92+retrieving+context+%C2%B7+RAG...;%E2%86%92+calling+tools+%C2%B7+MCP...;%E2%86%92+reasoning+%C2%B7+LLM...;%E2%9C%94+grounded+answer+delivered" alt="Animated agent trace: routing, retrieval, tool calls, reasoning, answer" />
 </div>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0369A1,50:38BDF8,100:0369A1" width="100%" alt="" />
 <!-- ═══════════════════════  ABOUT (BENTO)  ═══════════════════════ -->
 <table>
 <tr>
@@ -43,8 +47,8 @@ class Pritesh:
  
 <br/>
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
-## ⚡ Tech Stack
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:0F172A,100:0369A1&text=TECH%20STACK&fontSize=24&fontColor=ffffff&fontAlignY=52&animation=fadeIn" width="100%" alt="Tech Stack" />
+<br/>
 <details open>
 <summary><b>🧠 &nbsp;AI · ML · LLM Engineering</b></summary>
 <br/>
@@ -93,8 +97,8 @@ class Pritesh:
 </details>
 <br/>
 <!-- ═══════════════════════  AREAS OF INTEREST  ═══════════════════════ -->
-## 🧩 Areas of Interest
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:0F172A,100:0369A1&text=AREAS%20OF%20INTEREST&fontSize=24&fontColor=ffffff&fontAlignY=52&animation=fadeIn" width="100%" alt="Areas of Interest" />
+<br/>
 | | Area | What I explore |
 |:-:|:--|:--|
 | 🤖 | **Agentic AI** | Tool calling · routers · orchestrators · multi-step workflows |
@@ -107,8 +111,8 @@ class Pritesh:
  
 <br/>
 <!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
-## 📊 GitHub Stats
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:0F172A,100:0369A1&text=GITHUB%20STATS&fontSize=24&fontColor=ffffff&fontAlignY=52&animation=fadeIn" width="100%" alt="GitHub Stats" />
+<br/>
 <div align="center">
 <a href="https://github.com/priteshbeladiya07">
   <picture>
@@ -133,7 +137,6 @@ class Pritesh:
   </picture>
 </a>
 </div>
-<!-- Optional: contribution activity graph -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=priteshbeladiya07&bg_color=0D1117&color=38BDF8&line=0369A1&point=FFFFFF&area=true&area_color=0369A1&hide_border=true" />
@@ -142,23 +145,9 @@ class Pritesh:
   </picture>
 </div>
 <br/>
-<!-- ═══════════════════════  FEATURED PROJECTS  ═══════════════════════
-  Replace REPO_NAME_1 / REPO_NAME_2 with your real repo names, then remove
-  the comment markers (this line and the closing line below) to enable it.
-## 🚀 Featured Projects
-<div align="center">
-  <a href="https://github.com/priteshbeladiya07/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priteshbeladiya07&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/priteshbeladiya07/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priteshbeladiya07&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-═══════════════════════════════════════════════════════════════ -->
- 
 <!-- ═══════════════════════  ENGINEERING MINDSET  ═══════════════════════ -->
-## 📈 My Engineering Mindset
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:0F172A,100:0369A1&text=ENGINEERING%20MINDSET&fontSize=24&fontColor=ffffff&fontAlignY=52&animation=fadeIn" width="100%" alt="Engineering Mindset" />
+<br/>
 ```mermaid
 flowchart LR
     A([📚 Learn fundamentals]) --> B([🏗️ Understand architecture])
@@ -168,7 +157,7 @@ flowchart LR
     E -.->|iterate| C
 ```
  
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0369A1,50:38BDF8,100:0369A1" width="100%" alt="" />
 <!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
 <div align="center">
 ## 🌐 Let's Connect
@@ -182,6 +171,56 @@ flowchart LR
  
 <sub>Exploring the intersection of software engineering and artificial intelligence.</sub>
  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:0369A1,100:38BDF8" width="100%" alt="Decorative footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:0369A1,100:38BDF8&animation=twinkling" width="100%" alt="Decorative footer" />
 </div>
+<!-- ═══════════════════════  OPTIONAL EXTRAS (hidden)  ═══════════════════════
+  1) FEATURED PROJECTS
+     Replace REPO_NAME_1 / REPO_NAME_2, then move this block above the
+     "Let's Connect" section (outside this comment).
+     <div align="center">
+       <a href="https://github.com/priteshbeladiya07/REPO_NAME_1">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=priteshbeladiya07&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+       </a>
+       <a href="https://github.com/priteshbeladiya07/REPO_NAME_2">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=priteshbeladiya07&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+       </a>
+     </div>
+  2) CONTRIBUTION SNAKE
+     a) Create the file  .github/workflows/snake.yml  with this content:
+        name: Generate Snake Animation
+        on:
+          schedule:
+            - cron: "0 */12 * * *"
+          workflow_dispatch:
+          push:
+            branches: [main]
+        permissions:
+          contents: write
+        jobs:
+          generate:
+            runs-on: ubuntu-latest
+            timeout-minutes: 10
+            steps:
+              - uses: Platane/snk/svg-only@v3
+                with:
+                  github_user_name: ${{ github.repository_owner }}
+                  outputs: |
+                    dist/github-snake.svg
+                    dist/github-snake-dark.svg?palette=github-dark
+              - uses: crazy-max/ghaction-github-pages@v3.1.0
+                with:
+                  target_branch: output
+                  build_dir: dist
+                env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     b) Run it once from the Actions tab (Run workflow), then add this
+        block to the README (outside this comment):
+     <div align="center">
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priteshbeladiya07/priteshbeladiya07/output/github-snake-dark.svg" />
+         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priteshbeladiya07/priteshbeladiya07/output/github-snake.svg" />
+         <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/priteshbeladiya07/priteshbeladiya07/output/github-snake-dark.svg" width="100%" />
+       </picture>
+     </div>
+═══════════════════════════════════════════════════════════════════════════ -->
  
