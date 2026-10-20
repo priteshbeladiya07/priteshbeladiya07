@@ -55,7 +55,6 @@ I believe AI engineering is about more than generating an answer. It's about bui
 <p>
   <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-7C3AED?style=for-the-badge" alt="LLMs" />
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-2563EB?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral AI" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
