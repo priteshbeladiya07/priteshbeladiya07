@@ -1,4 +1,4 @@
-<!-- ═══════════════════════  HEADER  ═══════════════════════ -->
+<!-- HEADER -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0F172A,50:0369A1,100:38BDF8&text=Pritesh%20Beladiya&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=AI%20Engineer%20%C2%B7%20Python%20Developer%20%C2%B7%20Generative%20AI%20Builder&descSize=18&descAlignY=58" width="100%" alt="Pritesh Beladiya header" />
 <a href="https://github.com/priteshbeladiya07">
@@ -7,48 +7,45 @@
 <br/>
 <a href="https://github.com/priteshbeladiya07"><img src="https://img.shields.io/badge/GitHub-priteshbeladiya07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/github/followers/priteshbeladiya07?style=for-the-badge&logo=github&color=38BDF8&labelColor=0F172A" alt="Followers" />
- 
 <br/><br/>
- 
-<!-- Animated "agent trace" terminal: lines type out one after another, then loop -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=1400&color=0EA5E9&multiline=true&repeat=true&center=false&vCenter=false&width=640&height=170&lines=%24+agent.run%28%22what+should+I+build+next%3F%22%29;%E2%86%92+routing+intent...;%E2%86%92+retrieving+context+%C2%B7+RAG...;%E2%86%92+calling+tools+%C2%B7+MCP...;%E2%86%92+reasoning+%C2%B7+LLM...;%E2%9C%94+grounded+answer+delivered" alt="Animated agent trace: routing, retrieval, tool calls, reasoning, answer" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0369A1,50:38BDF8,100:0369A1" width="100%" alt="" />
-<!-- ═══════════════════════  ABOUT (BENTO)  ═══════════════════════ -->
+<!-- ABOUT (bento) -->
 <table>
 <tr>
 <td width="58%" valign="top">
-### 👨‍💻 &nbsp;whoami
- 
-```python
+<h3>👨‍💻 &nbsp;whoami</h3>
+<pre>
 class Pritesh:
     role     = "AI Engineer (in the making)"
-    studying = "B.Tech · Electronics & Communication"
+    studying = "B.Tech · Electronics &amp; Communication"
     focus    = ["GenAI", "Agentic workflows", "RAG", "Backend"]
     mindset  = "Build → Evaluate → Improve"
- 
+&nbsp;
     def mission(self):
-        return "Ship AI systems that are fast, reliable & useful"
-```
- 
+        return "Ship AI systems that are fast, reliable &amp; useful"
+</pre>
 </td>
 <td width="42%" valign="top">
-### 🔭 &nbsp;Currently
- 
-- 🤖 Building **agentic workflows** with LangGraph
-- 🔌 Exploring **MCP** for tool use
-- 🔎 Going deep on **advanced RAG** & context engineering
-- ⚡ Tuning **latency, throughput & token budgets**
+<h3>🔭 &nbsp;Currently</h3>
+<ul>
+  <li>🤖 Building <b>agentic workflows</b> with LangGraph</li>
+  <li>🔌 Exploring <b>MCP</b> for tool use</li>
+  <li>🔎 Going deep on <b>advanced RAG</b> &amp; context engineering</li>
+  <li>⚡ Tuning <b>latency, throughput &amp; token budgets</b></li>
+</ul>
 </td>
 </tr>
 </table>
-> [!NOTE]
-> I believe AI engineering is about more than generating an answer. It's about building systems that **retrieve** the right information, **use tools** appropriately, **handle failures**, and **deliver results efficiently**.
- 
+<blockquote>
+<b>💡 Philosophy</b><br/>
+I believe AI engineering is about more than generating an answer. It's about building systems that <b>retrieve</b> the right information, <b>use tools</b> appropriately, <b>handle failures</b>, and <b>deliver results efficiently</b>.
+</blockquote>
 <br/>
-<!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
+<!-- TECH STACK -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:0F172A,100:0369A1&text=TECH%20STACK&fontSize=24&fontColor=ffffff&fontAlignY=52&animation=fadeIn" width="100%" alt="Tech Stack" />
-<br/>
+<br/><br/>
 <details open>
 <summary><b>🧠 &nbsp;AI · ML · LLM Engineering</b></summary>
 <br/>
@@ -96,23 +93,31 @@ class Pritesh:
 </p>
 </details>
 <br/>
-<!-- ═══════════════════════  AREAS OF INTEREST  ═══════════════════════ -->
+<!-- AREAS OF INTEREST -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:0F172A,100:0369A1&text=AREAS%20OF%20INTEREST&fontSize=24&fontColor=ffffff&fontAlignY=52&animation=fadeIn" width="100%" alt="Areas of Interest" />
+<br/><br/>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="6%"></th>
+      <th align="left" width="28%">Area</th>
+      <th align="left">What I explore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td align="center">🤖</td><td><b>Agentic AI</b></td><td>Tool calling · routers · orchestrators · multi-step workflows</td></tr>
+    <tr><td align="center">🔎</td><td><b>Advanced RAG</b></td><td>Corrective RAG · Self-RAG · GraphRAG · semantic search</td></tr>
+    <tr><td align="center">🧠</td><td><b>Context Engineering</b></td><td>Retrieval · conversation history · context management</td></tr>
+    <tr><td align="center">🛡️</td><td><b>LLM Engineering</b></td><td>Tracing · evaluation · guardrails · reliability</td></tr>
+    <tr><td align="center">🏗️</td><td><b>AI System Design</b></td><td>Throughput · concurrency · caching · latency · token budgets</td></tr>
+    <tr><td align="center">⚙️</td><td><b>Backend Engineering</b></td><td>FastAPI · REST APIs · authentication · databases</td></tr>
+    <tr><td align="center">🚢</td><td><b>Deployment</b></td><td>Docker · environment configuration · app deployment</td></tr>
+  </tbody>
+</table>
 <br/>
-| | Area | What I explore |
-|:-:|:--|:--|
-| 🤖 | **Agentic AI** | Tool calling · routers · orchestrators · multi-step workflows |
-| 🔎 | **Advanced RAG** | Corrective RAG · Self-RAG · GraphRAG · semantic search |
-| 🧠 | **Context Engineering** | Retrieval · conversation history · context management |
-| 🛡️ | **LLM Engineering** | Tracing · evaluation · guardrails · reliability |
-| 🏗️ | **AI System Design** | Throughput · concurrency · caching · latency · token budgets |
-| ⚙️ | **Backend Engineering** | FastAPI · REST APIs · authentication · databases |
-| 🚢 | **Deployment** | Docker · environment configuration · app deployment |
- 
-<br/>
-<!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
+<!-- GITHUB STATS -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:0F172A,100:0369A1&text=GITHUB%20STATS&fontSize=24&fontColor=ffffff&fontAlignY=52&animation=fadeIn" width="100%" alt="GitHub Stats" />
-<br/>
+<br/><br/>
 <div align="center">
 <a href="https://github.com/priteshbeladiya07">
   <picture>
@@ -145,76 +150,48 @@ class Pritesh:
   </picture>
 </div>
 <br/>
-<!-- ═══════════════════════  ENGINEERING MINDSET  ═══════════════════════ -->
+<!-- ENGINEERING MINDSET -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:0F172A,100:0369A1&text=ENGINEERING%20MINDSET&fontSize=24&fontColor=ffffff&fontAlignY=52&animation=fadeIn" width="100%" alt="Engineering Mindset" />
-<br/>
-```mermaid
-flowchart LR
-    A([📚 Learn fundamentals]) --> B([🏗️ Understand architecture])
-    B --> C([🧪 Build & experiment])
-    C --> D([🔍 Evaluate & debug])
-    D --> E([🚀 Improve reliability<br/>& performance])
-    E -.->|iterate| C
-```
- 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0369A1,50:38BDF8,100:0369A1" width="100%" alt="" />
-<!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
+<br/><br/>
 <div align="center">
-## 🌐 Let's Connect
- 
+<table>
+  <tr>
+    <td align="center">📚<br/><b>Learn</b><br/>fundamentals</td>
+    <td align="center">➜</td>
+    <td align="center">🏗️<br/><b>Understand</b><br/>architecture</td>
+    <td align="center">➜</td>
+    <td align="center">🧪<br/><b>Build &amp;</b><br/>experiment</td>
+    <td align="center">➜</td>
+    <td align="center">🔍<br/><b>Evaluate &amp;</b><br/>debug</td>
+    <td align="center">➜</td>
+    <td align="center">🚀<br/><b>Improve</b><br/>reliability &amp; speed</td>
+  </tr>
+  <tr>
+    <td colspan="9" align="center">🔁 <i>iterate: loop back to build &amp; experiment</i></td>
+  </tr>
+</table>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0369A1,50:38BDF8,100:0369A1" width="100%" alt="" />
+<!-- CONNECT -->
+<div align="center">
+<h2>🌐 Let's Connect</h2>
 <a href="https://github.com/priteshbeladiya07">
   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 <br/><br/>
- 
-**Learn continuously. Think deeply. Build intelligently.**
- 
+<b>Learn continuously. Think deeply. Build intelligently.</b>
+<br/>
 <sub>Exploring the intersection of software engineering and artificial intelligence.</sub>
- 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:0369A1,100:38BDF8&animation=twinkling" width="100%" alt="Decorative footer" />
 </div>
-<!-- ═══════════════════════  OPTIONAL EXTRAS (hidden)  ═══════════════════════
-  1) FEATURED PROJECTS
-     Replace REPO_NAME_1 / REPO_NAME_2, then move this block above the
-     "Let's Connect" section (outside this comment).
+<!--
+  OPTIONAL EXTRAS (hidden)
+  1) FEATURED PROJECTS - replace REPO_NAME_1 / REPO_NAME_2 and move this block above the Connect section:
      <div align="center">
-       <a href="https://github.com/priteshbeladiya07/REPO_NAME_1">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=priteshbeladiya07&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-       </a>
-       <a href="https://github.com/priteshbeladiya07/REPO_NAME_2">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=priteshbeladiya07&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-       </a>
+       <a href="https://github.com/priteshbeladiya07/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=priteshbeladiya07&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" /></a>
+       <a href="https://github.com/priteshbeladiya07/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=priteshbeladiya07&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" /></a>
      </div>
-  2) CONTRIBUTION SNAKE
-     a) Create the file  .github/workflows/snake.yml  with this content:
-        name: Generate Snake Animation
-        on:
-          schedule:
-            - cron: "0 */12 * * *"
-          workflow_dispatch:
-          push:
-            branches: [main]
-        permissions:
-          contents: write
-        jobs:
-          generate:
-            runs-on: ubuntu-latest
-            timeout-minutes: 10
-            steps:
-              - uses: Platane/snk/svg-only@v3
-                with:
-                  github_user_name: ${{ github.repository_owner }}
-                  outputs: |
-                    dist/github-snake.svg
-                    dist/github-snake-dark.svg?palette=github-dark
-              - uses: crazy-max/ghaction-github-pages@v3.1.0
-                with:
-                  target_branch: output
-                  build_dir: dist
-                env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     b) Run it once from the Actions tab (Run workflow), then add this
-        block to the README (outside this comment):
+  2) CONTRIBUTION SNAKE - needs .github/workflows/snake.yml (see the earlier multi-file version), run once from the Actions tab, then add:
      <div align="center">
        <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priteshbeladiya07/priteshbeladiya07/output/github-snake-dark.svg" />
@@ -222,5 +199,5 @@ flowchart LR
          <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/priteshbeladiya07/priteshbeladiya07/output/github-snake-dark.svg" width="100%" />
        </picture>
      </div>
-═══════════════════════════════════════════════════════════════════════════ -->
+-->
  
