@@ -6,7 +6,6 @@
 </a>
 <br/>
 <a href="https://github.com/priteshbeladiya07"><img src="https://img.shields.io/badge/GitHub-priteshbeladiya07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=priteshbeladiya07&label=Profile%20views&color=0369A1&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/priteshbeladiya07?style=for-the-badge&logo=github&color=38BDF8&labelColor=0F172A" alt="Followers" />
  
 </div>
