@@ -58,12 +58,15 @@ I believe AI engineering is about more than generating an answer. It's about bui
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-2563EB?style=for-the-badge" alt="RAG" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/CrewAI-Multi--Agent%20Framework-7C3AED?style=for-the-badge" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/Google%20ADK-Agent%20Development-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-64748B?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/LangSmith-Tracing%20%26%20Evaluation-0F766E?style=for-the-badge" alt="LangSmith" />
+  <a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/38BDF8" width="42" height="42" alt="LangChain" /></a>
+  <a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph/38BDF8" width="42" height="42" alt="LangGraph" /></a>
+  <a href="https://www.crewai.com/" title="CrewAI"><img src="https://cdn.simpleicons.org/crewai/38BDF8" width="42" height="42" alt="CrewAI" /></a>
+  <a href="https://www.langchain.com/langsmith" title="LangSmith"><img src="https://brandlogos.sgp1.digitaloceanspaces.com/svg/lobehub/langsmith-color.svg" width="42" height="42" alt="LangSmith" /></a>
+  <a href="https://google.github.io/adk-docs/" title="Google ADK"><img src="https://cdn.simpleicons.org/google/4285F4" width="42" height="42" alt="Google logo for Google ADK" /></a>
+  <img src="https://img.shields.io/badge/ADK-4285F4?style=flat-square" alt="ADK" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-64748B?style=for-the-badge" alt="MCP — no dedicated icon used" />
 </p>
 </details>
 <details open>
@@ -74,7 +77,7 @@ I believe AI engineering is about more than generating an answer. It's about bui
 </p>
 <p>
   <img src="https://img.shields.io/badge/REST_APIs-Backend%20Development-0284C7?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-333333?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/38BDF8" width="42" height="42" alt="JSON Web Tokens (JWT)" title="JWT authentication" />
   <img src="https://img.shields.io/badge/uv-Python%20Package%20Manager-6D28D9?style=for-the-badge" alt="uv" />
 </p>
 </details>
