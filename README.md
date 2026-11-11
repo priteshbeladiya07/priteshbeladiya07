@@ -30,7 +30,8 @@ class Pritesh:
 <td width="42%" valign="top">
 <h3>🔭 &nbsp;Currently</h3>
 <ul>
-  <li>🤖 Building <b>agentic workflows</b> with LangGraph</li>
+  <li>🤖 Working with agentic frameworks: <b>LangGraph, CrewAI &amp; Google ADK</b></li>
+  <li>☁️ Exploring <b>AWS</b> cloud services, infrastructure and deployment</li>
   <li>🔌 Exploring <b>MCP</b> for tool use</li>
   <li>🔎 Going deep on <b>advanced RAG</b> &amp; context engineering</li>
   <li>⚡ Tuning <b>latency, throughput &amp; token budgets</b></li>
@@ -59,15 +60,17 @@ I believe AI engineering is about more than generating an answer. It's about bui
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-Multi--Agent%20Framework-7C3AED?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Google%20ADK-Agent%20Development-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-64748B?style=for-the-badge" alt="MCP" />
   <img src="https://img.shields.io/badge/LangSmith-Tracing%20%26%20Evaluation-0F766E?style=for-the-badge" alt="LangSmith" />
 </p>
 </details>
 <details open>
-<summary><b>⚙️ &nbsp;Backend · Databases · DevTools</b></summary>
+<summary><b>⚙️ &nbsp;Backend · Cloud · Databases · DevTools</b></summary>
 <br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,sqlite,mysql,git,github,vscode,linux&theme=dark" alt="FastAPI, Docker, PostgreSQL, SQLite, MySQL, Git, GitHub, VS Code, Linux" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,postgres,sqlite,mysql,git,github,vscode,linux&theme=dark" alt="FastAPI, Docker, AWS, PostgreSQL, SQLite, MySQL, Git, GitHub, VS Code, Linux" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/REST_APIs-Backend%20Development-0284C7?style=for-the-badge" alt="REST APIs" />
@@ -111,6 +114,7 @@ I believe AI engineering is about more than generating an answer. It's about bui
     <tr><td align="center">🏗️</td><td><b>AI System Design</b></td><td>Throughput · concurrency · caching · latency · token budgets</td></tr>
     <tr><td align="center">⚙️</td><td><b>Backend Engineering</b></td><td>FastAPI · REST APIs · authentication · databases</td></tr>
     <tr><td align="center">🚢</td><td><b>Deployment</b></td><td>Docker · environment configuration · app deployment</td></tr>
+    <tr><td align="center">☁️</td><td><b>Cloud &amp; Infrastructure</b></td><td>AWS fundamentals · cloud services · infrastructure and deployment</td></tr>
   </tbody>
 </table>
 <br/>
@@ -199,4 +203,3 @@ I believe AI engineering is about more than generating an answer. It's about bui
        </picture>
      </div>
 -->
- 
